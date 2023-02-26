@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/DavidIbrahim/DavidIbrahim/blob/main/david_android.gif" alt="Hi, I'm David, an Android Engineer">
+  <img src="https://github.com/DavidIbrahim/DavidIbrahim/blob/main/android_engineer2.gif" alt="Hi, I'm David, an Android Engineer">
 </p>
 
 - 🔭 I’m currently working on Android applications of [Foodics](https://www.linkedin.com/company/foodics/) and Linguistic
