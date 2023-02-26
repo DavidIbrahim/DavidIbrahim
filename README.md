@@ -15,8 +15,8 @@
   <a href="https://stackoverflow.com/users/10138208/david-ibrahim"><img src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="stackoverflow"/></a>
 </p>
 ## Blog posts
-  - [Unit testing with Mockk tweaks and tricks](https://dev.to/davidibrahim/unit-testing-with-mockk-tweaks-and-tricks-part1-2f6i)
-  - [How to use Multiple Bottom-sheets in Android Compose](https://dev.to/davidibrahim/how-to-use-multiple-bottom-sheets-in-android-compose-382p) <br>
+- [Unit testing with Mockk tweaks and tricks](https://dev.to/davidibrahim/unit-testing-with-mockk-tweaks-and-tricks-part1-2f6i)
+- [How to use Multiple Bottom-sheets in Android Compose](https://dev.to/davidibrahim/how-to-use-multiple-bottom-sheets-in-android-compose-382p) <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidIbrahim&show_icons=true&theme=dracula)<br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=DavidIbrahim&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
