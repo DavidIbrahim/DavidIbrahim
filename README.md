@@ -1,4 +1,5 @@
 ### Hi there! I am David 👋
+![](https://komarev.com/ghpvc/?username=DavidIbrahim&color=green)
 
 - 🔭 I’m currently working on Android applications of [Foodics](https://www.linkedin.com/company/foodics/) and Linguistic
 - 🌱 I’m currently learning iOS
