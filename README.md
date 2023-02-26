@@ -8,7 +8,7 @@
 ## :link: Find me
 
 <p align="center">
-  <a target="_top" href="emailto:david.i.salama@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
+  <a target="_top" href="david.i.salama@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
   <a href="https://www.linkedin.com/in/david-ibrahim-salama/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
   <a href="https://twitter.com/DavidIbrahimS"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
   <a href="https://www.facebook.com/David.ibra64/"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
