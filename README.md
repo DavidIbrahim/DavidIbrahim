@@ -7,11 +7,11 @@
 
 <p align="center">
   <a href="mailto:david.i.salama@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
-  <a href="https://www.linkedin.com/in/mathieu-ledru"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://www.linkedin.com/in/david-ibrahim-salama/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
   <a href="https://twitter.com/DavidIbrahimS"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
   <a href="https://www.facebook.com/David.ibra64/"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
   <a href="https://www.instagram.com/david_ibr/"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
-  <a href="https://dev.to/davidibrahim"><img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium"/></a>
+  <a href="https://dev.to/davidibrahim"><img src="https://img.icons8.com/windows/96/null/dev.png" alt="medium"/></a>
   <a href="https://stackoverflow.com/users/10138208/david-ibrahim"><img src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="stackoverflow"/></a>
 </p>
 
