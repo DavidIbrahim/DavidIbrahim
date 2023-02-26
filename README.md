@@ -4,4 +4,5 @@
 - 🌱 I’m currently learning iOS
 - 📫 How to reach me: [My linkedIn profile](https://www.linkedin.com/company/foodics/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidIbrahim)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidIbrahim&show_icons=true&theme=radical)
+
