@@ -5,4 +5,6 @@
 - 📫 How to reach me: [My linkedIn profile](https://www.linkedin.com/company/foodics/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidIbrahim&show_icons=true&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=DavidIbrahim&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
