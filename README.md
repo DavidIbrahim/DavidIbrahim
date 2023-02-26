@@ -11,7 +11,7 @@
   <a href="https://twitter.com/DavidIbrahimS"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
   <a href="https://www.facebook.com/David.ibra64/"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
   <a href="https://www.instagram.com/david_ibr/"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
-  <a href="https://dev.to/davidibrahim"><img src="https://img.icons8.com/windows/96/null/dev.png" alt="medium"/></a>
+  <a href="https://dev.to/davidibrahim"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAACXBIWXMAAAsTAAALEwEAmpwYAAABKklEQVR4nO2Vv0oDQRDGBwQrJfm+kPgc9tppoaVdnkYrtdEmj5MX8A8kjZ2dJu6cdukEITKXvXNRMbIhd1fsBwNz82f3x+ztnUhSUlJTpOS8SmsugFQ06eYDaDAuB0yVvHwQ2SzyL8CxAs9h32urtevrH4s68y1muWgA/bKLMh9sXvTNRTYcMMtjvd5ObgugmeWiAEREMmCvmMSyUTpgaPGMPDHzfcPoI5B/PgcAZ/mm5JUDrn3d6doA9Gf8MI8BNwrc+vxBZQBvnc62Iz+UfDcz32KVHYHJkePyBpEjCRQFMG239/3LNFm60OKGDMrpAIOVADQ04Pyvaxjk+kFPf2UAB0xs828foiMln35bMOt2txS4V+DO/CiAdan5AFr371jrAkhKSpKa9AnGjVKgM3YtKgAAAABJRU5ErkJggg==">
   <a href="https://stackoverflow.com/users/10138208/david-ibrahim"><img src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="stackoverflow"/></a>
 </p>
 
