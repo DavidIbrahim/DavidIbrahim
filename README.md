@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm David 👋 I'm an 🚀 Egyptian engineer">
-</p>
+### Hi there! I am David 👋
 
 - 🔭 I’m currently working on Android applications of [Foodics](https://www.linkedin.com/company/foodics/) and Linguistic
 - 🌱 I’m currently learning iOS
@@ -15,5 +13,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidIbrahim&show_icons=true&theme=dracula)<br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=DavidIbrahim&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 
