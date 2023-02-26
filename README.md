@@ -13,7 +13,7 @@
   <a href="https://www.instagram.com/david_ibr/"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
   <a href="https://dev.to/davidibrahim"><img src="https://img.icons8.com/windows/96/000000/dev.png">
   <a href="https://stackoverflow.com/users/10138208/david-ibrahim"><img src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="stackoverflow"/></a>
-</p>
+</p> <br>
 ## Blog posts
 - [Unit testing with Mockk tweaks and tricks](https://dev.to/davidibrahim/unit-testing-with-mockk-tweaks-and-tricks-part1-2f6i)
 - [How to use Multiple Bottom-sheets in Android Compose](https://dev.to/davidibrahim/how-to-use-multiple-bottom-sheets-in-android-compose-382p) <br>
