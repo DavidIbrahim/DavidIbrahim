@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there! I'm David 👋
+Highly skilled Android Engineer with 3 plus years of real-world experience in different types of applications. Has experience in Software Architecture, kotlin, coroutines and Android Compose. 
 <!--
 **DavidIbrahim/DavidIbrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
