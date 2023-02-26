@@ -1,4 +1,6 @@
-### Hi there! I am David 👋
+<p align="center">
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm David 👋 I'm an 🚀 Egyptian engineer">
+</p>
 
 - 🔭 I’m currently working on Android applications of [Foodics](https://www.linkedin.com/company/foodics/) and Linguistic
 - 🌱 I’m currently learning iOS
